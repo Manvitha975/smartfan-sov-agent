@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-08-10T09:27:11.895293",
+  "by_platform": {
+    "google": {
+      "n_results": 50,
+      "presence_sov": 0.94,
+      "engagement_sov": null,
+      "avg_sentiment_all": 0.863412,
+      "avg_sentiment_brand": 0.8613212765957444
+    }
+  },
+  "combined_presence_sov": 0.94
+}
